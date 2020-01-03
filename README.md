@@ -12,3 +12,6 @@
                                          
                                          
 ## 2. Pose Project (나만의 헬스트레이너 만들기)
+![123123](https://user-images.githubusercontent.com/43921054/71729901-36501480-2e84-11ea-8ca4-6579e3fe6090.png)
+
+**세가지 동작을 학습시켜 MobaXterm 명령어 툴과 카카오 음성합성 API 기능을 활용해 갯수를 세주는 헬스트레이너를 만들었다.**
